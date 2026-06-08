@@ -1,6 +1,6 @@
 # Parvez Shaik
 
-### Senior Salesforce Developer building secure, integration-ready CRM platforms
+### Senior Salesforce Developer building secure, integration-ready CRM platforms.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.parvezshaik.com-0B5CAB?style=for-the-badge)](https://www.parvezshaik.com/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-Certified%20Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://sforce.co/verifycerts)
