@@ -1,47 +1,49 @@
 # Parvez Shaik
 
-### Salesforce Developer | Apex, LWC, Flow, Integrations, DevOps, Agentforce, Data Cloud
+### Salesforce Developer | 5x Salesforce Certified | Apex, LWC, Flow, Integrations, DevOps, Agentforce
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.parvezshaik.com-7AA7FF?style=for-the-badge)](https://www.parvezshaik.com/)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-2E844A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.parvezshaik.com/parvez-shaik-resume-sd.pdf)
 [![Trailhead](https://img.shields.io/badge/Trailhead-Parvez-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/parvez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parvezshaik44-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvezshaik44/)
 [![GitHub](https://img.shields.io/badge/GitHub-ParvezSK3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParvezSK3)
 
-I am a Salesforce Developer with 5+ years of experience delivering CRM development, automation, integrations, and release management across enterprise Salesforce environments.
+I am a Salesforce Developer with 5+ years of experience delivering CRM development, automation, integrations, deployments, and production support across enterprise Salesforce environments.
 
 My work spans Apex, Lightning Web Components, Salesforce Flow, Platform Events, SOQL, REST APIs, Named Credentials, OAuth, Gearset, Git, Salesforce DX, CI/CD, sandbox management, rollback planning, and post-deployment validation. I have supported CRM platforms used by 5,000+ users and worked across Salesforce development, CRM business analysis, release ownership, and platform delivery.
 
-Currently, I am focused on Salesforce Developer and CRM Platform Engineer roles where I can combine platform development, integration reliability, release discipline, and secure CRM delivery.
+I hold five Salesforce certifications, including Salesforce Certified Platform Developer II and Salesforce Certified Agentforce Specialist. I am focused on Salesforce Developer and CRM Platform Engineer opportunities where I can combine platform development, integration reliability, release discipline, and secure CRM delivery.
 
 ## Current Focus
 
 | Area | What I Work On |
 | --- | --- |
-| Salesforce platform | CRM, Service Cloud, Lightning Experience, Agentforce, Data Cloud, Einstein Trust Layer, reports, dashboards |
-| Development and automation | Apex, Apex Triggers, Batch Apex, Queueable Apex, Scheduled Apex, LWC, Aura, Visualforce, SOQL, Flow, Platform Events, Custom Metadata, Validation Rules |
-| Integrations | REST APIs, HTTP callouts, Named Credentials, OAuth, AWS services, ERP and payment integrations, authentication, error handling, retry logic, integration logging |
-| DevOps and testing | Gearset, Git, Salesforce DX, CI/CD, metadata deployments, Apex testing, automated validation, sandbox management, rollback planning |
-| Delivery | Requirements gathering, user stories, acceptance criteria, UAT, defect triage, stakeholder management, release management, Agile/Scrum |
+| Salesforce platform | Sales Cloud, Service Cloud, Lightning Experience, Agentforce, Data Cloud, Einstein Trust Layer, reports, dashboards |
+| Development and automation | Apex, Apex Triggers, Batch Apex, Queueable Apex, Scheduled Apex, LWC, Aura, Visualforce, SOQL, Flow, Platform Events, Custom Metadata Types, Validation Rules |
+| Integrations | REST APIs, HTTP callouts, Named Credentials, OAuth 2.0, external systems, ERP and payment integrations, JSON, error handling, retry logic, integration logging |
+| DevOps and testing | Gearset, Git, Salesforce DX, CI/CD, metadata deployments, Apex test classes, deployment validation, sandbox management, rollback planning |
+| Architecture and security | Event-driven architecture, asynchronous Apex, bulkification, governor-limit optimization, performance tuning, profiles, permission sets, role hierarchy, sharing rules |
+| Delivery | Requirements gathering, user stories, acceptance criteria, gap analysis, process mapping, UAT, defect triage, stakeholder coordination, release management, Agile/Scrum |
 
 ## Experience Snapshot
 
 | Role | Organization | Highlights |
 | --- | --- | --- |
-| Salesforce Developer | Snowflake | Reduced release rework by 18%, decreased repeat support tickets by 12%, and cut release-review time by 28% by standardizing Gearset checks, Apex testing, Flow activation, and metadata validation |
-| CRM Business Systems Analyst | Kelley School of Business, Indiana University | Converted admissions and student-support CRM needs into Salesforce user stories, acceptance criteria, reports, field updates, and UAT documentation |
-| Senior Salesforce Developer | IBM | Optimized Apex and LWC for a 5,000+ user Salesforce CRM, increased page-load speed 2.3x through Visualforce-to-LWC migration, and reduced manual case-handling effort by 34% |
-| Salesforce Developer | Cognizant | Built Apex, LWC, Aura, SOQL, and trigger-based CRM workflows for 3,180 users and integrated Salesforce with payment, ERP, and marketing platforms |
+| Salesforce Developer | Snowflake | Reduced release rework by 18%, decreased repeat support tickets by 12%, and cut release-review time by 28% through stronger Gearset, Apex testing, Flow activation, and deployment-validation practices |
+| CRM Business Systems Analyst | Kelley School of Business, Indiana University | Reduced sprint-review clarification cycles by 15%, accelerated workflow reviews by 10%, and improved CRM data accuracy by 12% |
+| Senior Salesforce Developer | IBM | Tuned Apex and LWC for a 5,000+ user CRM, improved speed by 27%, migrated 22 Visualforce pages to LWC, maintained 92% Apex test coverage, and reduced release-related issues by 21% |
+| Salesforce Developer | Cognizant | Built CRM workflows for 3,180 users, improved process efficiency by 27%, integrated payment, ERP, and marketing platforms, and reduced manual follow-up by 18% |
 
 ## Resume-Backed Impact
 
 | Result | Context |
 | --- | --- |
-| 5+ years | Salesforce CRM development, automation, integrations, and releases |
+| 5+ years | Salesforce CRM development, automation, integrations, deployments, and support |
 | 5,000+ users | Production CRM support and platform development |
-| 28% faster release review | Standardized Gearset deployment checks, Apex tests, Flow activation, and metadata validation |
+| 28% faster release review | Standardized Gearset deployment checks, Apex tests, Flow activation, and validation |
 | 34% less manual case effort | Salesforce Flow and Platform Events automation |
 | 24% lower average handling time | Agentforce case triage with Data Cloud context and Einstein Trust Layer controls |
-| 3 Salesforce certifications | Platform Developer I, Platform App Builder, Administrator |
+| 5 Salesforce certifications | Platform Developer II, Agentforce Specialist, Platform Developer I, Platform App Builder, Administrator |
 
 ## Featured Work
 
@@ -50,12 +52,13 @@ Currently, I am focused on Salesforce Developer and CRM Platform Engineer roles 
 Live portfolio aligned to my current Salesforce resume.
 
 - Live: [www.parvezshaik.com](https://www.parvezshaik.com/)
+- Resume: [View current PDF](https://www.parvezshaik.com/parvez-shaik-resume-sd.pdf)
 - Built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion
 - Includes experience, projects, certifications, achievements, resume download, and proof links
 
 ### [CRM Case Automation & Release Stability](https://github.com/ParvezSK3/crm-case-automation-release-stability)
 
-Case triage and release-readiness workflow using LWC, Apex, Salesforce Flows, Platform Events, REST APIs, Salesforce DX, and Git.
+Case triage and release-readiness workflow using LWC, Apex, Salesforce Flow, Platform Events, REST APIs, Salesforce DX, and Git.
 
 - Reduced manual case review by 29% during testing
 - Reduced release rework by 18%
@@ -90,11 +93,13 @@ Idea-prioritization agent built for Luddy Hackathon 2025.
 
 | Credential | Issued |
 | --- | --- |
-| Salesforce Certified Administrator | Jun 2025 |
-| Salesforce Certified Platform App Builder | Jul 2025 |
+| Salesforce Certified Platform Developer II | Jul 2026 |
+| Salesforce Certified Agentforce Specialist | Jul 2026 |
 | Salesforce Certified Platform Developer I | Aug 2025 |
+| Salesforce Certified Platform App Builder | Jul 2025 |
+| Salesforce Certified Administrator | Jun 2025 |
 
-Verification: [sforce.co/verifycerts](https://sforce.co/verifycerts) and [Trailhead profile](https://www.salesforce.com/trailblazer/parvez)
+Verification: [Salesforce Trailhead profile](https://www.salesforce.com/trailblazer/parvez)
 
 ## Achievements
 
@@ -106,16 +111,18 @@ Verification: [sforce.co/verifycerts](https://sforce.co/verifycerts) and [Trailh
 
 ## Technical Toolkit
 
-`Apex` `Apex Triggers` `Batch Apex` `Queueable Apex` `Scheduled Apex` `Lightning Web Components` `Aura` `Visualforce` `SOQL` `Salesforce Flow` `Platform Events` `Custom Metadata` `Validation Rules` `Service Cloud` `Lightning Experience` `Agentforce` `Data Cloud` `Einstein Trust Layer` `Named Credentials` `OAuth` `REST APIs` `HTTP Callouts` `Gearset` `Git` `Salesforce DX` `CI/CD` `Apex Testing`
+`Apex` `Apex Triggers` `Batch Apex` `Queueable Apex` `Scheduled Apex` `Lightning Web Components` `Aura` `Visualforce` `SOQL` `Salesforce Flow` `Platform Events` `Custom Metadata Types` `Validation Rules` `Sales Cloud` `Service Cloud` `Lightning Experience` `Agentforce` `Data Cloud` `Einstein Trust Layer` `Named Credentials` `OAuth 2.0` `REST APIs` `HTTP Callouts` `JSON` `Gearset` `Git` `Salesforce DX` `CI/CD` `Apex Test Classes` `Bulkification` `Governor-Limit Optimization`
 
 ## Education
 
-**MS in Computer Science**  
-Indiana University Bloomington, Aug 2024 - May 2026
+**Master of Science in Computer Science**  
+Indiana University Bloomington, Aug 2024 - May 2026  
+Graduated May 2026
 
 ## Contact
 
 - Portfolio: [www.parvezshaik.com](https://www.parvezshaik.com/)
+- Resume: [View current PDF](https://www.parvezshaik.com/parvez-shaik-resume-sd.pdf)
 - LinkedIn: [linkedin.com/in/parvezshaik44](https://www.linkedin.com/in/parvezshaik44/)
 - Trailhead: [salesforce.com/trailblazer/parvez](https://www.salesforce.com/trailblazer/parvez)
 - GitHub: [github.com/ParvezSK3](https://github.com/ParvezSK3)
